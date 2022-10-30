@@ -1,0 +1,170 @@
+*{
+	padding: 0;
+	marging: 0;
+	box-sizing: border-box;
+
+
+}
+.photo{
+	width: calc(50% - 30px);
+	height: calc((35vw - 30px)/16*9);
+	margin: 10px;
+	background-color: #B0E0E6;
+	background-position: center;
+	background-size: cover;
+	transition: all 0.5s ease;
+	box-shadow: 0 0 10px 1px rgba(0,0,0,0.5);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1{
+
+ 	font-family: Pacifico;
+ 	width: 100%;
+ 	text-align: center;
+
+
+
+
+}
+
+h2{
+	font-family: Rubik Dirt;
+
+	width: 100%;
+ 	text-align: center;
+
+
+
+}
+
+a{
+	text-decoration: none;
+	font-family: Comforter Brush;
+	width: 100%;
+ 	text-align: center;
+	color: black;
+	font-size: 40px;
+
+}
+
+a:hover{
+	background-color: black;
+	color: white;
+
+
+
+}
+
+p{
+	font-size: 30px;
+	font-family: Helvetica;
+	line-height: 1.65;
+	margin-left: 50px;
+	margin-right: 20px;
+	margin-bottom: 5px;
+	margin-top: 30px;
+	color: #000000;
+}
+
+body{
+   background-image: url(../background2.jpg);
+
+   
+}
+main{
+	width: 70%;
+	padding: 50px;
+	margin: auto;
+	background-color: #FAF0E6;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	box-shadow: 0 0 10px 1px rgba(0,0,0,0.8);
+
+}
+div{
+
+
+}
+
+a:hover{
+	background-color: black;
+	color: white;
+}
+
+
+
+.photo:hover{
+	transform: scale(1.05) ;
+	box-shadow: 0 0 20px 1px rgba(0,0,0,0.8);
+
+}
+
+.photo1{
+	background-image: url(../img/phono1.png);
+}
+
+.photo2{
+	background-image: url(../img/phono2.png);
+}
+
+.photo3{
+	background-image: url(../img/phono3.png);
+}
+
+.photo4{
+	background-image: url(../img/phono4.png);
+}
+
+.photo5{
+	background-image: url(../img/phono5.png);
+}
+
+.photo6{
+	background-image: url(../img/phono6.png);
+}
+
+.photo7{
+	background-image: url(../img/phono7.png);
+}
+
+.photo8{
+	background-image: url(../img/phono8.png);
+}
+
+.photo9{
+	background-image: url(../img/phono9.png);
+}
+
+.photo10{
+	background-image: url(../img/phono10.png);
+}
+
+.photo11{
+	background-image: url(../img/phono11.png);
+}
+
+.photo12{
+	background-image: url(../img/phono12.png);
+}
+
+
+
+

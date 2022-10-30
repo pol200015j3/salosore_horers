@@ -1,0 +1,64 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+div{
+	width: 60%;
+	margin: auto;
+	background-color: white;
+	box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.3);
+}
+body{
+   background-image: url(./progekcs/background.jpg);s
+}
+img{
+   max-width: 1000px;
+   height: auto;
+   display: block;
+   margin: auto;
+   padding-bottom: 50px;
+   padding-top: 50px;
+}
+
+
+p{
+	font-size: 30px;
+	font-family: Helvetica;
+	line-height: 1.65;
+	margin-left: 50px;
+	margin-right: 20px;
+	margin-bottom: 5px;
+	margin-top: 30px;
+	color: blak;
+}
+
+h1{
+	font-size: 50px;
+	font-family: Helvetica;
+	text-align: center;
+	padding-bottom: 80px;
+	padding-top: 50px;
+	padding-right: 20px;
+	padding-left: 20px;
+	background-color: grey;
+	
+}
+
+
+a{
+	text-decoration: none;
+	font-family: Lobster;
+	width: 100%;
+ 	text-align: center;
+	color: black;
+	font-size: 50px;
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,62 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+
+}
+
+body{
+   background-image: url(background.jpg);
+
+   
+}
+
+
+
+h1{
+	font-size: 50px;
+	font-family: Helvetica;
+	text-align: center;
+	padding-bottom: 40px;
+	padding-top: 30px;
+	padding-right: 20px;
+	padding-left: 20px;
+	
+}
+
+p{
+	font-size: 30px;
+	font-family: Helvetica;
+	line-height: 1.65;
+	margin-left: 50px;
+	margin-right: 20px;
+	margin-bottom: 5px;
+	margin-top: 30px;
+	color: black;
+}
+
+a{
+	text-decoration: none;
+	display: block;
+	font-family: Pacifico;
+	width: 100%;
+ 	text-align: center;
+	color: black;
+	font-size: 50px;
+	transition: all 0.3s ease;
+}
+
+a:hover{
+	background-color: black;
+	color: white;}
+
+main{
+	width: 50%;
+	margin: auto;
+	background-color: rgba(255,255,255, 0.8);
+	box-shadow: 0 0 10px 1px rgba(0,0,0,0.8);
+
+}
+
+
+
